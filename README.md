@@ -30,4 +30,14 @@ This project allows users to browse food items, add them to the cart, and place 
 ### 1️⃣ Clone this repository
 ```bash
 git clone https://github.com/your-username/food-ordering-app.git
-cd food-ordering-app
+cd food_del
+
+✨ Future Enhancements
+
+🔄 Connect to backend API (Node.js + Express + MongoDB)
+
+👤 User authentication (JWT, sessions)
+
+📦 Admin panel for managing food items & orders
+
+💳 Online payment integration
